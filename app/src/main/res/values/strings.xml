@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Yellow Business Card</string>
+    <string name="name">Rocketman</string>
+    <string name="dev_status">Android Developer</string>
+    <string name="phone_no">123 456 789</string>
+    <string name="email">coder@gmail.com</string>
+    <string name="website">myWebsite.com</string>
 </resources>
